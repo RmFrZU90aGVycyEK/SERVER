@@ -1,2 +1,2 @@
-# SERVER
-Server | useful things!
+# DNS
+DNS | useful things!
