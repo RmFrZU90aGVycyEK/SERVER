@@ -1,2 +1,2 @@
 # Scripts
-Scripts | useful things!
+SERVER.Scripts | useful things!

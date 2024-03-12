@@ -1,2 +1,2 @@
 # SERVER
-Server | useful things!
+SERVER | useful things!

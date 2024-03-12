@@ -1,2 +1,2 @@
 # BlackLists
-BlackLists | useful things!
+SERVER.DNS.BlackLists | useful things!

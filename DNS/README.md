@@ -1,2 +1,2 @@
 # DNS
-DNS | useful things!
+SERVER.DNS | useful things!
